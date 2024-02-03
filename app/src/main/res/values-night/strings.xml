@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="overview">Overview</string>
+    <string name="tagline">Watch the show now with one play</string>
+    <string name="top_rate">Top Rate</string>
+    <string name="trending">Trending</string>
+    <string name="popular">Popular</string>
+</resources>

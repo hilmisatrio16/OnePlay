@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">One Play</string>
+    <string name="title_favorite">Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="overview">Overview</string>
+    <string name="tagline">Watch the show now with one play</string>
+    <string name="top_rate">Top Rate</string>
+    <string name="trending">Trending</string>
+    <string name="popular">Popular</string>
+</resources>
