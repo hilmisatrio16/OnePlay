@@ -5,7 +5,8 @@ orbs:
 
 jobs:
   build:
-    executor: android/android
+    docker:
+      - image: cimg/android:2024.01-ndk
     steps:
       - checkout
       - restore_cache:
